@@ -12,6 +12,8 @@ A personal project showcasing my skills in web development, graphic design, and 
 - Font Awesome
 
 ## How to Run
+Simply enter https://handaishaan10.github.io/hover-animation/ in your browser 
+OR
 Download the repository as a zipped file then extract it and run main.html 
 
 ## Contact
