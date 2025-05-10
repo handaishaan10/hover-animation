@@ -13,7 +13,9 @@ A personal project showcasing my skills in web development, graphic design, and 
 
 ## How to Run
 Simply enter https://handaishaan10.github.io/hover-animation/ in your browser 
-OR
+
+                                  OR
+                                  
 Download the repository as a zipped file then extract it and run main.html 
 
 ## Contact
